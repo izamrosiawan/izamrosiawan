@@ -18,9 +18,3 @@
 
 # Hi, I'm Izam Rosiawan 🕸️
 
-![Izam Rosiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=izamrosiawan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izamrosiawan&layout=compact&theme=radical)
-![GitHub followers](https://img.shields.io/github/followers/izamrosiawan?label=Follow&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/izamrosiawan?style=social)
-
-Cuma tukang ketik kode.
