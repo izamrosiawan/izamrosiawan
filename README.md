@@ -16,5 +16,5 @@
 
 ##
 
-# Hi, I'm Izam Rosiawan 🕸️
+# Hi, i'm izamrosiawan 🕸️
 
