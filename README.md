@@ -16,4 +16,5 @@
 
 ##
 
-# Hi, i'm izamrosiawan 🕸️
+# i'm izamrosiawan 🕸️
+I love tinkering with data, playing around with Python, and running cool experiments in Jupyter Notebook. MySQL? Easy peasy—I enjoy messing with databases
