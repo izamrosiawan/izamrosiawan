@@ -17,4 +17,4 @@
 ##
 
 # i'm izamrosiawan 🕸️
-I love tinkering with data, playing around with Python, and running cool experiments in Jupyter Notebook. MySQL? Easy peasy—I enjoy messing with databases
+If life is data, then my heart is a model that continues to learn from you. I search for the correlation between longing and distance, and hope that our regression will lead to an eternal embrace.
