@@ -8,4 +8,4 @@
 ##
 
 # i'm izamrosiawan 🕸️
-If life is data, then my heart is a model that continues to learn from you. I search for the correlation between longing and distance, and hope that our regression will lead to an eternal embrace.
+if life is data, then my heart is a model that continues to learn from you. i search for the correlation between longing and distance, and hope that our regression will lead to an eternal embrace.
