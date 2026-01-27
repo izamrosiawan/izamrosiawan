@@ -8,4 +8,4 @@
 ##
 
 # i'm izamrosiawan 🕸️
-if life is data, then my heart is a model that continues to learn from you. i search for the correlation between longing and distance, and hope that our regression will lead to an eternal embrace.
+if life is a collection of data, my heart is just a process that is slowly learning about you. sometimes i try to find the connection between longing and distance, sometimes i just get tired of thinking. but somehow, in the end, my hope remains the same: i hope that all of this will end with us embracing each other, not just waiting for each other.
