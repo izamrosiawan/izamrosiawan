@@ -3,8 +3,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izamrosiawan/izamrosiawan/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/izamrosiawan/izamrosiawan/output/pacman-contribution-graph.svg">
 </picture>
-
-
-##
-
-# i'm izamrosiawan 🕸️
